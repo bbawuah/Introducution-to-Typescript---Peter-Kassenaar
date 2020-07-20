@@ -1,0 +1,13 @@
+{
+  "name"        : "0502-interface",
+  "version"     : "1.0.0",
+  "author"      : "Peter Kassenaar",
+  "license"     : "MIT",
+  "scripts"     : {
+	"tsc"  : "tsc",
+	"watch": "tsc -w"
+  },
+  "dependencies": {
+	"typescript": "^2.1.5"
+  }
+}
